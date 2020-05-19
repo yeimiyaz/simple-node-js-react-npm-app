@@ -1,7 +1,7 @@
 # simple-node-js-react-npm-app
 
 This repository is for the
-[Build a Node.js and React app with npm](https://jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/)
+[Build a Node.js and React app with npm](https://github.com/GeorgeBrownCollege-Toronto/Software-Development-Methodologies/blob/master/notes/overview-of-devops/lab/node-react-ci-cd.md)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
 
 The repository contains a simple Node.js and React application which generates
