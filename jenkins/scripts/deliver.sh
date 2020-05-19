@@ -24,8 +24,8 @@ echo $! > .pidfile
 set +x
 
 echo 'Now...'
-# If you run on Docker-Toolbox, instead of localhost, use docker-machine's ip
 echo 'Visit http://localhost:3000 to see your Node.js/React application in action.'
+echo 'if you run docker-toolbox, visit http://<docker-machine-ip:3000.'
 echo '(This is why you specified the "args ''-p 3000:3000''" parameter when you'
 echo 'created your initial Pipeline as a Jenkinsfile.)'
 
