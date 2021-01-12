@@ -1,7 +1,7 @@
 # simple-node-js-react-npm-app
 
 This repository is for the
-[Build a Node.js and React app with npm](https://github.com/GeorgeBrownCollege-Toronto/Software-Development-Methodologies/blob/master/notes/overview-of-devops/lab/node-react-ci-cd.md) lab as per the [Jenkins User Documentation](https://jenkins.io/doc/).
+[Build a Node.js and React app with npm](https://github.com/GeorgeBrownCollege-Toronto/Software-Development-Methodologies/blob/master/notes/advanced-git-and-devops/lab/node-react-ci-cd.md) lab as per the [Jenkins User Documentation](https://jenkins.io/doc/).
 
 The repository contains a simple Node.js and React application which generates
 a web page with the content "Welcome to React" and is accompanied by a test to
