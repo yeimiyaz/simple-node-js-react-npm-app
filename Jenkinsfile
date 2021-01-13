@@ -1,7 +1,7 @@
 pipeline {
     agent {
         docker {
-            image 'node:14.15.4-slim' 
+            image 'node:latest' 
             args '-p 8080:8080'
         }
     }
