@@ -1,7 +1,7 @@
 pipeline {
     agent {
         docker {
-            image 'node:https://hub.docker.com/_/node/' 
+            image 'node:15.5.1-alpine3.10' 
             args '-p 8080:8080'
         }
     }
